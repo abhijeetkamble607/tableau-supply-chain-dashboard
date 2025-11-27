@@ -1,4 +1,4 @@
-# 📦 Supply Chain Management – Data Analyst Project
+#  Supply Chain Management – Data Analyst Project
 **Tools Used:** Excel • SQL • Power BI • Tableau  
 
 ## 📌 Project Overview
